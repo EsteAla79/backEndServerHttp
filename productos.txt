@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Pantalon",
+    "price": "10.000",
+    "thumbnail": "https://www.celio.com/medias/sys_master/productMedias/productMediasImport/h2c/h6f/9395842547742/product-media-import-1061267-3-zoom.jpg",
+    "id": 1
+  },
+  {
+    "title": "Buzo",
+    "price": "40.000",
+    "thumbnail": "https://www.celio.com/medias/sys_master/productMedias/productMediasImport/h2c/h6f/9395842547742/product-media-import-1061267-3-zoom.jpg",
+    "id": 2
+  },
+  {
+    "title": "Remera",
+    "price": "20.000",
+    "thumbnail": "https://www.celio.com/medias/sys_master/productMedias/productMediasImport/h2c/h6f/9395842547742/product-media-import-1061267-3-zoom.jpg",
+    "id": 3
+  }
+]
